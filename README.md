@@ -1,0 +1,2 @@
+# FaniconStyleMod
+PCブラウザ視聴時のFaniconの画面構成を最適化します。
