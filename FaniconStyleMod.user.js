@@ -3,7 +3,7 @@
 // @namespace    https://github.com/AyeBee/FaniconStyleMod
 // @version      0.1
 // @description  Faniconの画面構成を最適化します。
-// @author       AyeBee_TY
+// @author       ayebee
 // @match        https://fanicon.net/web/*
 // @match        https://fanicon.net/web/fancommunities/*/live/*
 // @icon         https://www.google.com/s2/favicons?domain=fanicon.net
