@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Fanicon Style Mod
-// @namespace    http://ayebee.jp/
+// @namespace    https://github.com/AyeBee/FaniconStyleMod
 // @version      0.1
 // @description  Faniconの画面構成を最適化します。
 // @author       AyeBee_TY
